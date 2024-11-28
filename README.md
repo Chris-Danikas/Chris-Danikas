@@ -1,6 +1,5 @@
 ## Hi there 👋
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="50b2bc6c-c7ae-43e4-b115-f1d2563d975c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<!--
+
 **Chris-Danikas/Chris-Danikas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
